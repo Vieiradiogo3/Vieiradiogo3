@@ -1,7 +1,7 @@
 ![Blue and White Modern Technology Portfolio Presentation (2)](https://user-images.githubusercontent.com/74923578/112195917-423f0800-8be9-11eb-923b-432bfa7dc35b.png)
 
 
-### Olá!! Aqui está um pouco do que eu aprendi nesse pouco tempo de carreira, o projeto que estou desenvolvendo e as linguagens e ferramentas que eu aprendi a utilizar. Venho me dedicando desde sempre para ser cada vez melhor, e praticando o máximo possível.
+### Olá!! Aqui está um pouco do que eu aprendi nesse curto tempo de carreira, o projeto que estou desenvolvendo, as linguagens e as ferramentas que eu aprendi a utilizar. Venho me dedicando desde sempre para ser cada vez melhor, e praticando o máximo possível.
 
 - 🔭 Estou trabalhando no [Projeto Demo Day Instituto PROA](https://github.com/Proa-Group-3/Project-PCD)
 
