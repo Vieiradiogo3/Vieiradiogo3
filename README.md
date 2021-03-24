@@ -11,7 +11,7 @@
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/diogo-vieira-da-silva-00/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/diogo-vieira-da-silva-00/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diogovieiradasilva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/diogovieiradasilva/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
