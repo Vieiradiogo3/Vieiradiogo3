@@ -1,4 +1,4 @@
-![Blue and White Modern Technology Portfolio Presentation (3)]
+![Github](https://user-images.githubusercontent.com/74923578/114564255-894b7680-9c46-11eb-9412-6bbb1e85a196.png)
 
 
 ### Olá!! Aqui está um pouco do que eu aprendi nesse curto tempo de carreira, o projeto que estou desenvolvendo, as linguagens e as ferramentas que eu aprendi a utilizar. Tenho me dedicado desde sempre para ser cada vez melhor, e praticando o máximo possível.
