@@ -1,7 +1,7 @@
 
 ### Olá! Aqui está um pouco do que eu aprendi nesse curto tempo de carreira, o projeto que estou desenvolvendo, as linguagens e as ferramentas que eu aprendi a utilizar. Tenho me dedicado desde sempre para ser cada vez melhor, e praticando o máximo possível.
 
-- 🔭 Estou trabalhando no [Projeto Demo Day Instituto PROA](https://github.com/Proa-Group-3/Project-PCD)
+- 🔭 Estou desenvolvendo o [Projeto Demo Day Instituto PROA](https://github.com/Proa-Group-3/Project-PCD)
  
 - 📫 E-mail para contato: **Vieiradiogo3@gmail.com**
 
