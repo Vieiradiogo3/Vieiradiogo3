@@ -1,7 +1,7 @@
 
 ## Olá!! Eu sou o Diogo Vieira
 
-- 🔭 Estou desenvolvendo o [Projeto Demo Day Instituto PROA](https://github.com/Proa-Group-3/Project-PCD)
+- 🔭 Estou desenvolvendo o C-HELPER (https://github.com/Proa-Group-3/Project-PCD)
  
 - 📫 E-mail para contato: **Vieiradiogo3@gmail.com**
 
